@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakia Akhter</h1>
 <h3 align="center">A passionate data science learner from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcute-hijab-girl-cartoon-with-laptop-design-illustration_26927863.htm&psig=AOvVaw1DANSNz2zWtgtmk5seipxF&ust=1676567730542000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj8y9KDmP0CFQAAAAAdAAAAABAc">
+<img align="right" alt="coding" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcute-hijab-girl-cartoon-with-laptop-design-illustration_26927863.htm&psig=AOvVaw1DANSNz2zWtgtmk5seipxF&ust=1676567730542000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj8y9KDmP0CFQAAAAAdAAAAABAc">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakiaa&label=Profile%20views&color=0e75b6&style=flat" alt="jakiaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakiaa" alt="jakiaa" /></a> </p>
