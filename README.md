@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakia Akhter</h1>
 <h3 align="center">A passionate data science learner from Bangladesh</h3>
-<img align="right" alt="coding" width="200" src="A:\Extra course\Deep Learning\Capture.JPG">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakiaa&label=Profile%20views&color=0e75b6&style=flat" alt="jakiaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakiaa" alt="jakiaa" /></a> </p>
